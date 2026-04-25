@@ -39,5 +39,3 @@ I wanted to understand how healthcare access and hospital performance changed ov
 
 ## What I Learned
 This was my first end-to-end data analysis project. I got hands-on experience with the full data pipeline — from raw data cleaning in Python all the way to building interactive dashboards in Power BI. The most interesting part was seeing how much the numbers varied across hospitals and finding hospitals that grew by over 400% in just 5 years.
-interesting part was seeing how much the numbers varied across hospitals 
-and finding hospitals that grew by over 400% in just 5 years.
